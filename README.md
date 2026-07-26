@@ -7,30 +7,11 @@
 [![Blog](https://img.shields.io/badge/Blog-ananthks.dev-FF6B6B?style=flat&logo=hashnode)](https://blog.ananthks.com/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/ksananth)
 
-**Senior Android Developer | Technical Lead | 12+ Years Experience**
+**Senior Android Developer | Technical Lead | 14+ Years Experience**
 
-Crafting high-performance, scalable Android applications with Kotlin, Jetpack Compose, and Clean Architecture.
+Crafting Flutter & Android applications with Kotlin, Jetpack Compose, and Clean Architecture.
 
 </div>
-
----
-
-## 🚀 What I'm Working On
-
-```
-├── 📱 neba-android (BNP Paribas Fortis)
-│   ├── Nav3 Migration & Jetpack Compose Implementation
-│   ├── DexGuard RASP Integration
-│   └── AGP 9.x Upgrade
-├── 🐦 Flutter Habit Tracker
-│   ├── ObjectBox Database
-│   ├── BLoC Pattern
-│   └── GitHub Actions CI/CD
-└── 📝 Personal Tech Brand
-    ├── Blog (Payload CMS + Next.js)
-    ├── Portfolio Site
-    └── YouTube Channel (Aachi TV)
-```
 
 ---
 
@@ -70,67 +51,13 @@ Crafting high-performance, scalable Android applications with Kotlin, Jetpack Co
 
 ---
 
-## 📊 GitHub Analytics
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ksananth&show_icons=true&theme=tokyonight&count_private=true&line_height=32)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ksananth&layout=compact&theme=tokyonight)
-
-</div>
-
----
-
 ## 🎖 Certifications & Achievements
 
 - 🏅 **Google Certified Associate Android Developer**
-- 🎓 **IIT Kharagpur HAAI++ (AI & Advanced Applications)**
+- 🎓 **Flutter Developer**
 - 🔐 **SSL/TLS & PSD2 Authentication Expert**
 - 📱 **Jetpack Compose Migration Specialist**
 - 🛡️ **DexGuard RASP Security Implementation**
-
----
-
-## 🌟 Featured Projects
-
-### 📱 [Easy Banking App](https://github.com/ksananth) - BNP Paribas Fortis
-Fintech mobile banking application with 500K+ users
-- **Tech:** Kotlin, Jetpack Compose, Clean Architecture
-- **Features:** PSD2 auth, SSL pinning, multi-flavor support
-- **Impact:** Migrated to Nav3 & Jetpack Compose (ongoing)
-
-### 🐦 [Habit Tracker](https://github.com/ksananth/habittracker)
-Beautiful habit tracking app with offline-first approach
-- **Tech:** Flutter, ObjectBox, BLoC
-- **Features:** Dark mode, analytics, cloud sync
-- **Status:** Open source, active community
-
-### 📝 [Personal Blog](https://blog.ananthks.com/)
-Tech insights on Android, Flutter, and Web Development
-- **Built with:** Next.js, Payload CMS, Cloudinary
-- **Content:** 50+ articles, 10K+ monthly readers
-
----
-
-## 🎯 Current Focus Areas
-
-```
-🔥 High Priority
-  ├─ Jetpack Compose Migration
-  ├─ Performance Optimization
-  └─ Security Hardening (DexGuard RASP)
-
-📚 Learning
-  ├─ Flutter Advanced Patterns
-  ├─ On-device AI/ML Integration
-  └─ Kotlin Multiplatform Mobile (KMM)
-
-🚀 Future Goals
-  ├─ Build personal tech brand
-  ├─ Open source contributions
-  └─ Mentor junior developers
-```
 
 ---
 
@@ -156,13 +83,5 @@ PRs           🟩🟩🟩🟨⬜⬜⬜ 3 open
 Issues        🟩🟩🟩🟩🟨⬜⬜ 4 open
 Contributions 🔥 Consistent contributor
 ```
-
----
-
-<div align="center">
-
-**💡 Ideas are the currency of progress. Let's build something amazing together!**
-
-⭐ If you find my projects helpful, please consider giving them a star!
 
 </div>
