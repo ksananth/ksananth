@@ -72,94 +72,17 @@ Building scalable mobile apps with Kotlin & Flutter. Exploring on-device AI, LLM
 
 ---
 
-## 🚀 AI/ML Projects & Interests
-
-```
-📱 On-Device AI
-  ├─ Gemini Nano Integration (Android)
-  ├─ ML Kit for Vision/NLP
-  └─ TFLite Model Optimization
-
-🤖 LLM & Prompt Engineering
-  ├─ Few-Shot Learning (Flan-T5-XL)
-  ├─ LangChain RAG Implementation
-  └─ Claude API Integration
-
-💡 AI-Powered Apps
-  ├─ SmartScan (OCR + Gemini API)
-  ├─ Intelligent Habit Tracker
-  └─ AI Content Generation
-
-📊 Learning & Research
-  ├─ IIT Kharagpur HAAI++ Course
-  ├─ LLM Fine-Tuning (QLoRA)
-  └─ Agentic AI Patterns
-```
 
 ---
 
 ## 🎖 Certifications & Achievements
 
 - 🏅 **Google Certified Associate Android Developer**
-- 🎓 **IIT Kharagpur HAAI++ (AI & Advanced Applications)**
-- 🧠 **LLM Fine-Tuning & Prompt Engineering**
-- 🛡️ **DexGuard RASP Security Implementation**
+- 🎓 **IIT Kharagpur HAAI++ (AI & Advanced Applications)** - Ongoing
 - 📱 **Flutter Developer Certified**
-- 🔐 **PSD2 & SSL/TLS Authentication Expert**
 
 ---
 
-## 📊 Featured Projects
-
-### 📱 **Easy Banking App** - BNP Paribas Fortis
-Production fintech app with 500K+ active users
-- **Tech:** Kotlin, Jetpack Compose, Clean Architecture, MVVM
-- **Features:** PSD2 auth, SSL pinning, DexGuard RASP, multi-flavor
-- **Status:** Active | Migrating to Nav3 & Jetpack Compose
-
-### 🧠 **SmartScan** - AI-Powered Bill Scanner
-Mobile app combining ML Kit OCR + Gemini API
-- **Tech:** Flutter, ML Kit, Gemini API, Firebase
-- **Features:** Real-time OCR, entity extraction, cost analysis
-- **Status:** Active development
-
-### 🐦 **Habit Tracker** - Beautiful Habit Management
-Offline-first habit tracking with analytics
-- **Tech:** Flutter, ObjectBox, BLoC, GitHub Actions
-- **Features:** Dark mode, cloud sync, analytics, open source
-- **Status:** Open source | Community-driven
-
-### 📝 **Personal Blog** - Tech Insights & Tutorials
-50+ articles on Android, Flutter, AI/ML
-- **Built with:** Next.js, Payload CMS, Cloudinary, Giscus
-- **Traffic:** 10K+ monthly readers
-- **Topics:** Jetpack Compose, Kotlin, Python, LLMs
-
----
-
-## 🎯 Current Focus
-
-```
-🔥 Priority
-  ├─ Jetpack Compose Migration (neba-android)
-  ├─ On-Device AI Integration
-  ├─ LLM Fine-Tuning & RAG Patterns
-  └─ Performance Optimization & Security
-
-📚 Learning
-  ├─ Advanced LLM Techniques
-  ├─ Agentic AI Architectures
-  ├─ Kotlin Multiplatform (KMP)
-  └─ AI Safety & Alignment
-
-🚀 Side Projects
-  ├─ AI-Powered Mobile Apps
-  ├─ Open Source Contributions
-  ├─ Blog & YouTube Content
-  └─ Trading Bot (Nifty Options)
-```
-
----
 
 ## 📫 Get In Touch
 
@@ -174,25 +97,3 @@ Offline-first habit tracking with analytics
 
 </div>
 
----
-
-## 📈 Activity & Stats
-
-```
-Commits       🟩🟩🟩🟩🟩🟩🟨 45 this week
-PRs           🟩🟩🟩🟨⬜⬜⬜ 3 open
-Issues        🟩🟩🟩🟩🟨⬜⬜ 4 open
-Contributions 🔥 Consistent 365-day streak
-```
-
----
-
-<div align="center">
-
-**💡 Building intelligent systems with mobile + AI**
-
-**🚀 Android | Flutter | Python | LLMs | On-Device AI**
-
-⭐ If you find my projects helpful, please consider giving them a star!
-
-</div>
