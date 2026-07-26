@@ -3,7 +3,7 @@
 - 🔭  I’m currently working on Kotlin and Android.
 - 🌱  I’m currently learning Flutter development.
 - 💫  I am open to working on new ideas.
-- 📫  How to reach me: [My Website](https://ananth.kraftanapp.com)
+- 📫  How to reach me: [My Website](https://ananthks.com)
 
 ---
 
