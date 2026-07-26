@@ -5,7 +5,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=ksananth&color=blue)
 [![Website](https://img.shields.io/badge/Website-ananthks.com-000?style=flat&logo=globe)](https://ananthks.com/)
 [![Blog](https://img.shields.io/badge/Blog-ananthks.dev-FF6B6B?style=flat&logo=hashnode)](https://blog.ananthks.com/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/ksananth)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/ananth-ks)
 
 **Senior Android Developer | Technical Lead | 14+ Years Experience**
 
