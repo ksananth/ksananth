@@ -70,15 +70,4 @@ Crafting Flutter & Android applications with Kotlin, Jetpack Compose, and Clean 
 
 </div>
 
----
-
-## 📈 Activity
-
-```
-Commits       🟩🟩🟩🟩🟩🟩🟨 45 this week
-PRs           🟩🟩🟩🟨⬜⬜⬜ 3 open
-Issues        🟩🟩🟩🟩🟨⬜⬜ 4 open
-Contributions 🔥 Consistent contributor
-```
-
 </div>
