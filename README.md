@@ -7,7 +7,7 @@
 [![Blog](https://img.shields.io/badge/Blog-ananthks.dev-FF6B6B?style=flat&logo=hashnode)](https://blog.ananthks.com/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/ananth-ks)
 
-**Senior Android Developer | AI/ML Enthusiast | Technical Lead | 14+ Years Experience**
+**Senior Android Developer | AI Enthusiast | Technical Lead | 14+ Years Experience**
 
 Building scalable mobile apps with Kotlin & Flutter. Exploring on-device AI, LLMs, and intelligent systems.
 
