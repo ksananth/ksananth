@@ -55,9 +55,6 @@ Crafting Flutter & Android applications with Kotlin, Jetpack Compose, and Clean 
 
 - 🏅 **Google Certified Associate Android Developer**
 - 🎓 **Flutter Developer**
-- 🔐 **SSL/TLS & PSD2 Authentication Expert**
-- 📱 **Jetpack Compose Migration Specialist**
-- 🛡️ **DexGuard RASP Security Implementation**
 
 ---
 
@@ -68,8 +65,8 @@ Crafting Flutter & Android applications with Kotlin, Jetpack Compose, and Clean 
 [![Website](https://img.shields.io/badge/Website-ananthks.com-000?style=for-the-badge&logo=globe)](https://ananthks.com/)
 [![Blog](https://img.shields.io/badge/Blog-ananthks.dev-FF6B6B?style=for-the-badge&logo=hashnode)](https://blog.ananthks.com/)
 [![Twitter](https://img.shields.io/badge/Twitter-@ksananth-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/ksananth)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-ksananth-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/ksananth)
-[![Email](https://img.shields.io/badge/Email-ananth@ananthks.dev-D14836?style=for-the-badge&logo=gmail)](mailto:ananth@ananthks.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ksananth-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/ananth-ks)
+[![Email](https://img.shields.io/badge/Email-ananth@ananthks.dev-D14836?style=for-the-badge&logo=gmail)](mailto:learnwithananth@gmail.com)
 
 </div>
 
